@@ -1,0 +1,275 @@
+<html>
+
+  <header>
+
+ 
+
+  <style>
+
+  img {
+
+  position: absolute;
+
+  bottom: 630px;
+
+  right: 850px;
+
+   }
+
+ #buscador {
+
+    position:absolute;
+
+       bottom: 570px;
+
+    right: 730px;
+
+    height: 30px;
+
+    width: 500px;
+
+     }
+
+    #search {
+
+      position: absolute;
+
+    bottom: 520px;
+
+  right: 980px;
+
+    } 
+
+    #lucky {
+
+      position: absolute;
+
+    bottom: 520px;
+
+  right: 880px;
+
+    }    
+
+    
+
+     #footer1 {
+
+      position: absolute;
+
+     top: 91.8%;
+
+    right: 96%;
+
+    }   
+
+         
+
+    #about {
+
+      position: absolute;
+
+     top: 96.5%;
+
+    right: 95%;
+
+    }   
+
+    #advertising {
+
+      position: absolute;
+
+     top: 96.5%;
+
+    right: 89%;
+
+    }   
+
+    #business {
+
+      position: absolute;
+
+     top: 96.5%;
+
+    right: 84%;
+
+   }   
+
+    #searchfooter {
+
+      position: absolute;
+
+     top: 96.5%;
+
+    right: 75%;
+
+    }   
+
+    #privacy {
+
+      position: absolute;
+
+     top: 96.5%;
+
+    right: 15%;
+
+    }   
+
+    #conditions {
+
+      position: absolute;
+
+     top: 96.5%;
+
+    right: 8.5%;
+
+    }   
+
+    #preference{
+
+    position: absolute;
+
+     top: 96.5%;
+
+    right: 2%;
+
+}
+
+#background1{
+
+width: 2200px;
+
+height: 55px;
+
+background-color: #cccccc;
+
+opacity: 20%;
+
+position: absolute;
+
+     top: 95%;
+
+    right: 0%;
+
+}
+
+#background2{
+
+width: 2200px;
+
+height: 45px;
+
+background-color: #cccccc;
+
+opacity: 20%;
+
+position: absolute;
+
+     top: 90.5%;
+
+    right: 0%;
+
+}
+
+    #background3{
+
+width: 2200px;
+
+height: 1px;
+
+background-color: #999999;
+
+position: absolute;
+
+     top: 95%;
+
+    right: 0%;
+
+}
+
+</style>
+
+ 
+
+</header>
+
+<body>
+
+     <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google Logo" >
+
+  <input type="text" id="buscador">
+
+ 
+
+  <div>
+
+  <button type= "Submit" id="search"> Search with google </button> 
+
+  </div>
+
+  <div>
+
+  <button type= "Submit" id="lucky"> I feel lucky </button> 
+
+  </div>
+
+ 
+
+</body>
+
+ 
+
+<footer>
+
+ 
+
+<div id= "footer1"> Argentina </div>
+
+  
+
+  <a href= "https://about.google/?utm_source=google-AR&utm_medium=referral&utm_campaign=hp-footer&fg=1" id= "about"> Sobre Google </a>
+
+ 
+
+   <a href= "https://ads.google.com/intl/es_ar/home/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1" id= "advertising"> Advertising </a>
+
+  
+
+   <a href= "https://smallbusiness.withgoogle.com/intl/es-419_ar/help/#!/" id= "business"> Business </a>
+
+  
+
+    <a href= "https://www.google.com/search/howsearchworks/?fg=1" id="searchfooter" > How the search works </a>
+
+   
+
+      <a href= "https://policies.google.com/privacy?hl=es-AR&fg=1" id= "privacy"> Privacy </a>
+
+     
+
+       <a href= "https://www.google.com/search/howsearchworks/?fg=1" id= "conditions"> Conditions </a>
+
+      
+
+        <a id="preference"> Preference </a>
+
+       
+
+<div id="background1">
+
+</div>
+
+<div id="background2">
+
+</div>
+
+        <div id="background3">
+
+</div>
+
+    
+
+</footer>
+
+ 
+
+</html>
